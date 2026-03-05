@@ -1,6 +1,6 @@
 # kungucatherine.github.io
 <section id="about-me">
-  <h2>Emerging Communications and Public Relations Professional</h2>
+  <h2>Communications and Public Relations Professional</h2>
   <p>
     I am an emerging Communications and Public Relations professional passionate about crafting compelling narratives, engaging diverse audiences, and supporting organizations in achieving meaningful impact. With hands-on experience in content creation, media engagement, and digital communication, I excel at developing strategic messaging that informs, inspires, and drives positive change. I am eager to contribute my creativity, analytical skills, and enthusiasm for communication to dynamic teams and projects, while continuing to grow as a professional in the public relations and communications field.
   </p>
